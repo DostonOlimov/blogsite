@@ -1,0 +1,2 @@
+[2022-05-09 11:05:34.477] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-05-09 11:05:35.117] [sharedprocess] [info] Starting worker process with pid 6980 (type: fileWatcher, window: 1).

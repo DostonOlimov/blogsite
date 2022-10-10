@@ -1,0 +1,10 @@
+[2022-05-09 11:08:41.659] [main] [info] update#setState idle
+[2022-05-09 11:08:41.704] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-09 11:08:41.746] [main] [info] ExtensionHostStarterWorker created
+[2022-05-09 11:08:42.499] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-09 11:08:42.775] [main] [info] Starting extension host with pid 7833 (fork() took 13 ms).
+[2022-05-09 11:08:42.776] [main] [info] ExtensionHostStarterWorker.start() took 15 ms.
+[2022-05-09 11:09:11.667] [main] [info] update#setState checking for updates
+[2022-05-09 11:09:11.670] [main] [info] update#setState idle
+[2022-05-09 11:09:12.537] [main] [info] Waiting for extension host with pid 7833 to exit.
+[2022-05-09 11:09:13.550] [main] [info] Extension host with pid 7833 exited with code: 0, signal: null.

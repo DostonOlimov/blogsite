@@ -1,0 +1,2 @@
+[2022-05-09 11:05:35.257] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Offline"}
+[2022-05-09 11:05:36.284] [renderer1] [error] RequestService#request (browser) - error https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json {"name":"Offline"}

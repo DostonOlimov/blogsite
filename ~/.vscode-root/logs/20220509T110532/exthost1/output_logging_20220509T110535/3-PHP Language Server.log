@@ -1,0 +1,386 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The Xdebug extension is not loaded
+
+[Info  - 11:05:36 AM] OK!
+[Info  - 11:05:36 AM] 3539 files total
+[Info  - 11:05:36 AM] Indexing project for definitions and static references
+Parsing file:///var/www/html/yii2/console/config/params-local.php
+Parsing file:///var/www/html/yii2/console/config/main-local.php
+Parsing file:///var/www/html/yii2/console/config/params.php
+Parsing file:///var/www/html/yii2/console/config/bootstrap.php
+Parsing file:///var/www/html/yii2/console/config/main.php
+Parsing file:///var/www/html/yii2/console/config/test.php
+Parsing file:///var/www/html/yii2/console/config/test-local.php
+Parsing file:///var/www/html/yii2/console/migrations/m130524_201442_init.php
+Parsing file:///var/www/html/yii2/console/migrations/m190124_110200_add_verification_token_column_to_user_table.php
+Parsing file:///var/www/html/yii2/frontend/web/index.php
+Parsing file:///var/www/html/yii2/frontend/web/index-test.php
+Parsing file:///var/www/html/yii2/frontend/assets/AppAsset.php
+Parsing file:///var/www/html/yii2/frontend/views/layouts/main.php
+Parsing file:///var/www/html/yii2/frontend/views/site/index.php
+Parsing file:///var/www/html/yii2/frontend/views/site/contact.php
+Parsing file:///var/www/html/yii2/frontend/views/site/login.php
+Parsing file:///var/www/html/yii2/frontend/views/site/about.php
+Parsing file:///var/www/html/yii2/frontend/views/site/resetPassword.php
+Parsing file:///var/www/html/yii2/frontend/views/site/resendVerificationEmail.php
+Parsing file:///var/www/html/yii2/frontend/views/site/requestPasswordResetToken.php
+Parsing file:///var/www/html/yii2/frontend/views/site/error.php
+Parsing file:///var/www/html/yii2/frontend/views/site/signup.php
+Parsing file:///var/www/html/yii2/frontend/models/SignupForm.php
+Parsing file:///var/www/html/yii2/frontend/models/VerifyEmailForm.php
+Parsing file:///var/www/html/yii2/frontend/models/ContactForm.php
+Parsing file:///var/www/html/yii2/frontend/models/PasswordResetRequestForm.php
+Parsing file:///var/www/html/yii2/frontend/models/ResetPasswordForm.php
+Parsing file:///var/www/html/yii2/frontend/models/ResendVerificationEmailForm.php
+Parsing file:///var/www/html/yii2/frontend/tests/acceptance/_bootstrap.php
+Parsing file:///var/www/html/yii2/frontend/tests/acceptance/HomeCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/_data/user.php
+Parsing file:///var/www/html/yii2/frontend/tests/_data/login_data.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/ResendVerificationEmailCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/_bootstrap.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/AboutCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/SignupCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/ContactCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/VerifyEmailCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/LoginCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/HomeCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/_bootstrap.php
+Parsing file:///var/www/html/yii2/frontend/tests/_support/FunctionalTester.php
+Parsing file:///var/www/html/yii2/frontend/tests/_support/UnitTester.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/models/SignupFormTest.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/models/ResendVerificationEmailFormTest.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/models/PasswordResetRequestFormTest.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/models/ContactFormTest.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/models/ResetPasswordFormTest.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/models/VerifyEmailFormTest.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/_bootstrap.php
+Parsing file:///var/www/html/yii2/frontend/config/params-local.php
+Parsing file:///var/www/html/yii2/frontend/config/main-local.php
+Parsing file:///var/www/html/yii2/frontend/config/params.php
+Parsing file:///var/www/html/yii2/frontend/config/codeception-local.php
+Parsing file:///var/www/html/yii2/frontend/config/bootstrap.php
+Parsing file:///var/www/html/yii2/frontend/config/main.php
+Parsing file:///var/www/html/yii2/frontend/config/test.php
+Parsing file:///var/www/html/yii2/frontend/config/test-local.php
+Parsing file:///var/www/html/yii2/frontend/controllers/SiteController.php
+Parsing file:///var/www/html/yii2/common/models/User.php
+Parsing file:///var/www/html/yii2/common/models/LoginForm.php
+Parsing file:///var/www/html/yii2/common/fixtures/UserFixture.php
+Parsing file:///var/www/html/yii2/common/widgets/Alert.php
+Parsing file:///var/www/html/yii2/common/tests/_data/user.php
+Parsing file:///var/www/html/yii2/common/tests/_bootstrap.php
+Parsing file:///var/www/html/yii2/common/tests/_support/UnitTester.php
+Parsing file:///var/www/html/yii2/common/tests/unit/models/LoginFormTest.php
+Parsing file:///var/www/html/yii2/common/config/__autocomplete.php
+Parsing file:///var/www/html/yii2/common/config/params-local.php
+Parsing file:///var/www/html/yii2/common/config/main-local.php
+Parsing file:///var/www/html/yii2/common/config/params.php
+Parsing file:///var/www/html/yii2/common/config/codeception-local.php
+Parsing file:///var/www/html/yii2/common/config/bootstrap.php
+Parsing file:///var/www/html/yii2/common/config/main.php
+Parsing file:///var/www/html/yii2/common/config/test.php
+Parsing file:///var/www/html/yii2/common/config/test-local.php
+Parsing file:///var/www/html/yii2/common/mail/passwordResetToken-text.php
+Parsing file:///var/www/html/yii2/common/mail/passwordResetToken-html.php
+Parsing file:///var/www/html/yii2/common/mail/emailVerify-text.php
+Parsing file:///var/www/html/yii2/common/mail/emailVerify-html.php
+Parsing file:///var/www/html/yii2/common/mail/layouts/html.php
+Parsing file:///var/www/html/yii2/common/mail/layouts/text.php
+Parsing file:///var/www/html/yii2/environments/index.php
+Parsing file:///var/www/html/yii2/environments/dev/console/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/dev/console/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/dev/console/config/test-local.php
+Parsing file:///var/www/html/yii2/environments/dev/frontend/web/index.php
+Parsing file:///var/www/html/yii2/environments/dev/frontend/web/index-test.php
+Parsing file:///var/www/html/yii2/environments/dev/frontend/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/dev/frontend/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/dev/frontend/config/codeception-local.php
+Parsing file:///var/www/html/yii2/environments/dev/frontend/config/test-local.php
+Parsing file:///var/www/html/yii2/environments/dev/common/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/dev/common/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/dev/common/config/codeception-local.php
+Parsing file:///var/www/html/yii2/environments/dev/common/config/test-local.php
+Parsing file:///var/www/html/yii2/environments/dev/backend/web/index.php
+Parsing file:///var/www/html/yii2/environments/dev/backend/web/index-test.php
+Parsing file:///var/www/html/yii2/environments/dev/backend/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/dev/backend/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/dev/backend/config/codeception-local.php
+Parsing file:///var/www/html/yii2/environments/dev/backend/config/test-local.php
+Parsing file:///var/www/html/yii2/environments/prod/console/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/prod/console/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/prod/frontend/web/index.php
+Parsing file:///var/www/html/yii2/environments/prod/frontend/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/prod/frontend/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/prod/common/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/prod/common/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/prod/backend/web/index.php
+Parsing file:///var/www/html/yii2/environments/prod/backend/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/prod/backend/config/main-local.php
+Parsing file:///var/www/html/yii2/backend/web/index.php
+Parsing file:///var/www/html/yii2/backend/web/index-test.php
+Parsing file:///var/www/html/yii2/backend/assets/AppAsset.php
+Parsing file:///var/www/html/yii2/backend/views/layouts/blank.php
+Parsing file:///var/www/html/yii2/backend/views/layouts/main.php
+Parsing file:///var/www/html/yii2/backend/views/site/index.php
+Parsing file:///var/www/html/yii2/backend/views/site/login.php
+Parsing file:///var/www/html/yii2/backend/views/site/error.php
+Parsing file:///var/www/html/yii2/backend/tests/_data/login_data.php
+Parsing file:///var/www/html/yii2/backend/tests/functional/_bootstrap.php
+Parsing file:///var/www/html/yii2/backend/tests/functional/LoginCest.php
+Parsing file:///var/www/html/yii2/backend/tests/_bootstrap.php
+Parsing file:///var/www/html/yii2/backend/tests/_support/FunctionalTester.php
+Parsing file:///var/www/html/yii2/backend/tests/_support/UnitTester.php
+Parsing file:///var/www/html/yii2/backend/tests/unit/_bootstrap.php
+Parsing file:///var/www/html/yii2/backend/config/params-local.php
+Parsing file:///var/www/html/yii2/backend/config/main-local.php
+Parsing file:///var/www/html/yii2/backend/config/params.php
+Parsing file:///var/www/html/yii2/backend/config/codeception-local.php
+Parsing file:///var/www/html/yii2/backend/config/bootstrap.php
+Parsing file:///var/www/html/yii2/backend/config/main.php
+Parsing file:///var/www/html/yii2/backend/config/test.php
+Parsing file:///var/www/html/yii2/backend/config/test-local.php
+Parsing file:///var/www/html/yii2/backend/controllers/SiteController.php
+Parsing file:///var/www/html/yii2/vendor/autoload.php
+Parsing file:///var/www/html/yii2/vendor/composer/installed.php
+Parsing file:///var/www/html/yii2/vendor/composer/autoload_files.php
+Parsing file:///var/www/html/yii2/vendor/composer/autoload_psr4.php
+Parsing file:///var/www/html/yii2/vendor/composer/platform_check.php
+Parsing file:///var/www/html/yii2/vendor/composer/autoload_namespaces.php
+Parsing file:///var/www/html/yii2/vendor/composer/InstalledVersions.php
+Parsing file:///var/www/html/yii2/vendor/composer/autoload_real.php
+Parsing file:///var/www/html/yii2/vendor/composer/autoload_static.php
+Parsing file:///var/www/html/yii2/vendor/composer/ClassLoader.php
+Parsing file:///var/www/html/yii2/vendor/composer/autoload_classmap.php
+Parsing file:///var/www/html/yii2/vendor/yiisoft/extensions.php
+Parsing file:///var/www/html/yii2/requirements.php
+[Info  - 11:05:36 AM] Indexing project for dynamic references
+Parsing file:///var/www/html/yii2/console/config/params-local.php
+Parsing file:///var/www/html/yii2/console/config/main-local.php
+Parsing file:///var/www/html/yii2/console/config/params.php
+Parsing file:///var/www/html/yii2/console/config/bootstrap.php
+Parsing file:///var/www/html/yii2/console/config/main.php
+Parsing file:///var/www/html/yii2/console/config/test.php
+Parsing file:///var/www/html/yii2/console/config/test-local.php
+Parsing file:///var/www/html/yii2/console/migrations/m130524_201442_init.php
+Parsing file:///var/www/html/yii2/console/migrations/m190124_110200_add_verification_token_column_to_user_table.php
+Parsing file:///var/www/html/yii2/frontend/web/index.php
+Parsing file:///var/www/html/yii2/frontend/web/index-test.php
+Parsing file:///var/www/html/yii2/frontend/assets/AppAsset.php
+Parsing file:///var/www/html/yii2/frontend/views/layouts/main.php
+Parsing file:///var/www/html/yii2/frontend/views/site/index.php
+Parsing file:///var/www/html/yii2/frontend/views/site/contact.php
+Parsing file:///var/www/html/yii2/frontend/views/site/login.php
+Parsing file:///var/www/html/yii2/frontend/views/site/about.php
+Parsing file:///var/www/html/yii2/frontend/views/site/resetPassword.php
+Parsing file:///var/www/html/yii2/frontend/views/site/resendVerificationEmail.php
+Parsing file:///var/www/html/yii2/frontend/views/site/requestPasswordResetToken.php
+Parsing file:///var/www/html/yii2/frontend/views/site/error.php
+Parsing file:///var/www/html/yii2/frontend/views/site/signup.php
+Parsing file:///var/www/html/yii2/frontend/models/SignupForm.php
+Parsing file:///var/www/html/yii2/frontend/models/VerifyEmailForm.php
+Parsing file:///var/www/html/yii2/frontend/models/ContactForm.php
+Parsing file:///var/www/html/yii2/frontend/models/PasswordResetRequestForm.php
+Parsing file:///var/www/html/yii2/frontend/models/ResetPasswordForm.php
+Parsing file:///var/www/html/yii2/frontend/models/ResendVerificationEmailForm.php
+Parsing file:///var/www/html/yii2/frontend/tests/acceptance/_bootstrap.php
+Parsing file:///var/www/html/yii2/frontend/tests/acceptance/HomeCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/_data/user.php
+Parsing file:///var/www/html/yii2/frontend/tests/_data/login_data.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/ResendVerificationEmailCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/_bootstrap.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/AboutCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/SignupCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/ContactCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/VerifyEmailCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/LoginCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/functional/HomeCest.php
+Parsing file:///var/www/html/yii2/frontend/tests/_bootstrap.php
+Parsing file:///var/www/html/yii2/frontend/tests/_support/FunctionalTester.php
+Parsing file:///var/www/html/yii2/frontend/tests/_support/UnitTester.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/models/SignupFormTest.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/models/ResendVerificationEmailFormTest.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/models/PasswordResetRequestFormTest.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/models/ContactFormTest.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/models/ResetPasswordFormTest.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/models/VerifyEmailFormTest.php
+Parsing file:///var/www/html/yii2/frontend/tests/unit/_bootstrap.php
+Parsing file:///var/www/html/yii2/frontend/config/params-local.php
+Parsing file:///var/www/html/yii2/frontend/config/main-local.php
+Parsing file:///var/www/html/yii2/frontend/config/params.php
+Parsing file:///var/www/html/yii2/frontend/config/codeception-local.php
+Parsing file:///var/www/html/yii2/frontend/config/bootstrap.php
+Parsing file:///var/www/html/yii2/frontend/config/main.php
+Parsing file:///var/www/html/yii2/frontend/config/test.php
+Parsing file:///var/www/html/yii2/frontend/config/test-local.php
+Parsing file:///var/www/html/yii2/frontend/controllers/SiteController.php
+Parsing file:///var/www/html/yii2/common/models/User.php
+Parsing file:///var/www/html/yii2/common/models/LoginForm.php
+Parsing file:///var/www/html/yii2/common/fixtures/UserFixture.php
+Parsing file:///var/www/html/yii2/common/widgets/Alert.php
+Parsing file:///var/www/html/yii2/common/tests/_data/user.php
+Parsing file:///var/www/html/yii2/common/tests/_bootstrap.php
+Parsing file:///var/www/html/yii2/common/tests/_support/UnitTester.php
+Parsing file:///var/www/html/yii2/common/tests/unit/models/LoginFormTest.php
+Parsing file:///var/www/html/yii2/common/config/__autocomplete.php
+Parsing file:///var/www/html/yii2/common/config/params-local.php
+Parsing file:///var/www/html/yii2/common/config/main-local.php
+Parsing file:///var/www/html/yii2/common/config/params.php
+Parsing file:///var/www/html/yii2/common/config/codeception-local.php
+Parsing file:///var/www/html/yii2/common/config/bootstrap.php
+Parsing file:///var/www/html/yii2/common/config/main.php
+Parsing file:///var/www/html/yii2/common/config/test.php
+Parsing file:///var/www/html/yii2/common/config/test-local.php
+Parsing file:///var/www/html/yii2/common/mail/passwordResetToken-text.php
+Parsing file:///var/www/html/yii2/common/mail/passwordResetToken-html.php
+Parsing file:///var/www/html/yii2/common/mail/emailVerify-text.php
+Parsing file:///var/www/html/yii2/common/mail/emailVerify-html.php
+Parsing file:///var/www/html/yii2/common/mail/layouts/html.php
+Parsing file:///var/www/html/yii2/common/mail/layouts/text.php
+Parsing file:///var/www/html/yii2/environments/index.php
+Parsing file:///var/www/html/yii2/environments/dev/console/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/dev/console/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/dev/console/config/test-local.php
+Parsing file:///var/www/html/yii2/environments/dev/frontend/web/index.php
+Parsing file:///var/www/html/yii2/environments/dev/frontend/web/index-test.php
+Parsing file:///var/www/html/yii2/environments/dev/frontend/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/dev/frontend/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/dev/frontend/config/codeception-local.php
+Parsing file:///var/www/html/yii2/environments/dev/frontend/config/test-local.php
+Parsing file:///var/www/html/yii2/environments/dev/common/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/dev/common/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/dev/common/config/codeception-local.php
+Parsing file:///var/www/html/yii2/environments/dev/common/config/test-local.php
+Parsing file:///var/www/html/yii2/environments/dev/backend/web/index.php
+Parsing file:///var/www/html/yii2/environments/dev/backend/web/index-test.php
+Parsing file:///var/www/html/yii2/environments/dev/backend/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/dev/backend/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/dev/backend/config/codeception-local.php
+Parsing file:///var/www/html/yii2/environments/dev/backend/config/test-local.php
+Parsing file:///var/www/html/yii2/environments/prod/console/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/prod/console/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/prod/frontend/web/index.php
+Parsing file:///var/www/html/yii2/environments/prod/frontend/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/prod/frontend/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/prod/common/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/prod/common/config/main-local.php
+Parsing file:///var/www/html/yii2/environments/prod/backend/web/index.php
+Parsing file:///var/www/html/yii2/environments/prod/backend/config/params-local.php
+Parsing file:///var/www/html/yii2/environments/prod/backend/config/main-local.php
+Parsing file:///var/www/html/yii2/backend/web/index.php
+Parsing file:///var/www/html/yii2/backend/web/index-test.php
+Parsing file:///var/www/html/yii2/backend/assets/AppAsset.php
+Parsing file:///var/www/html/yii2/backend/views/layouts/blank.php
+Parsing file:///var/www/html/yii2/backend/views/layouts/main.php
+Parsing file:///var/www/html/yii2/backend/views/site/index.php
+Parsing file:///var/www/html/yii2/backend/views/site/login.php
+Parsing file:///var/www/html/yii2/backend/views/site/error.php
+Parsing file:///var/www/html/yii2/backend/tests/_data/login_data.php
+Parsing file:///var/www/html/yii2/backend/tests/functional/_bootstrap.php
+Parsing file:///var/www/html/yii2/backend/tests/functional/LoginCest.php
+Parsing file:///var/www/html/yii2/backend/tests/_bootstrap.php
+Parsing file:///var/www/html/yii2/backend/tests/_support/FunctionalTester.php
+Parsing file:///var/www/html/yii2/backend/tests/_support/UnitTester.php
+Parsing file:///var/www/html/yii2/backend/tests/unit/_bootstrap.php
+Parsing file:///var/www/html/yii2/backend/config/params-local.php
+Parsing file:///var/www/html/yii2/backend/config/main-local.php
+Parsing file:///var/www/html/yii2/backend/config/params.php
+Parsing file:///var/www/html/yii2/backend/config/codeception-local.php
+Parsing file:///var/www/html/yii2/backend/config/bootstrap.php
+Parsing file:///var/www/html/yii2/backend/config/main.php
+Parsing file:///var/www/html/yii2/backend/config/test.php
+Parsing file:///var/www/html/yii2/backend/config/test-local.php
+Parsing file:///var/www/html/yii2/backend/controllers/SiteController.php
+Parsing file:///var/www/html/yii2/vendor/autoload.php
+Parsing file:///var/www/html/yii2/vendor/composer/installed.php
+Parsing file:///var/www/html/yii2/vendor/composer/autoload_files.php
+Parsing file:///var/www/html/yii2/vendor/composer/autoload_psr4.php
+Parsing file:///var/www/html/yii2/vendor/composer/platform_check.php
+Parsing file:///var/www/html/yii2/vendor/composer/autoload_namespaces.php
+Parsing file:///var/www/html/yii2/vendor/composer/InstalledVersions.php
+Parsing file:///var/www/html/yii2/vendor/composer/autoload_real.php
+Parsing file:///var/www/html/yii2/vendor/composer/autoload_static.php
+Parsing file:///var/www/html/yii2/vendor/composer/ClassLoader.php
+Parsing file:///var/www/html/yii2/vendor/composer/autoload_classmap.php
+Parsing file:///var/www/html/yii2/vendor/yiisoft/extensions.php
+Parsing file:///var/www/html/yii2/requirements.php
+[Info  - 11:05:37 AM] 79 Packages
+[Info  - 11:05:37 AM] Restored symfony/yaml:5.4.3 from cache
+[Info  - 11:05:37 AM] Restored symfony/console:5.4.8 from cache
+[Info  - 11:05:37 AM] Restored symfony/service-contracts:1.1.2 from cache
+[Info  - 11:05:37 AM] Restored symfony/browser-kit:4.2.4 from cache
+[Info  - 11:05:37 AM] Restored symfony/polyfill-intl-idn:1.25.0 from cache
+[Info  - 11:05:37 AM] Restored symfony/event-dispatcher-contracts:2.5.1 from cache
+[Info  - 11:05:37 AM] Restored symfony/css-selector:5.4.3 from cache
+[Info  - 11:05:37 AM] Restored symfony/polyfill-php80:1.25.0 from cache
+[Info  - 11:05:37 AM] Restored symfony/dom-crawler:4.4.39 from cache
+[Info  - 11:05:37 AM] Restored symfony/polyfill-intl-normalizer:1.25.0 from cache
+[Info  - 11:05:37 AM] Restored symfony/event-dispatcher:5.4.3 from cache
+[Info  - 11:05:37 AM] Restored symfony/polyfill-php73:1.25.0 from cache
+[Info  - 11:05:37 AM] Restored symfony/polyfill-php72:1.25.0 from cache
+[Info  - 11:05:37 AM] Restored symfony/finder:5.4.8 from cache
+[Info  - 11:05:37 AM] Restored symfony/string:5.4.8 from cache
+[Info  - 11:05:37 AM] Restored symfony/polyfill-intl-grapheme:1.25.0 from cache
+[Info  - 11:05:37 AM] Restored symfony/polyfill-mbstring:1.25.0 from cache
+[Info  - 11:05:37 AM] Restored symfony/deprecation-contracts:2.5.1 from cache
+[Info  - 11:05:37 AM] Restored symfony/polyfill-ctype:1.25.0 from cache
+[Info  - 11:05:37 AM] Restored symfony/polyfill-iconv:1.25.0 from cache
+[Info  - 11:05:37 AM] Restored fakerphp/faker:1.19.0 from cache
+[Info  - 11:05:37 AM] Restored cebe/markdown:1.2.1 from cache
+[Info  - 11:05:37 AM] Restored guzzlehttp/psr7:2.2.1 from cache
+[Info  - 11:05:37 AM] Restored phpspec/php-diff:1.1.3 from cache
+[Info  - 11:05:37 AM] Restored phpspec/prophecy:1.15.0 from cache
+[Info  - 11:05:37 AM] Restored swiftmailer/swiftmailer:6.3.0 from cache
+[Info  - 11:05:37 AM] Restored myclabs/deep-copy:1.11.0 from cache
+[Info  - 11:05:37 AM] Restored egulias/email-validator:3.1.2 from cache
+[Info  - 11:05:37 AM] Restored ezyang/htmlpurifier:4.14.0 from cache
+[Info  - 11:05:37 AM] Restored phpdocumentor/reflection-docblock:5.3.0 from cache
+[Info  - 11:05:37 AM] Restored phpdocumentor/type-resolver:1.6.1 from cache
+[Info  - 11:05:37 AM] Restored phpdocumentor/reflection-common:2.2.0 from cache
+[Info  - 11:05:37 AM] Restored paragonie/random_compat:9.99.100 from cache
+[Info  - 11:05:37 AM] Restored webmozart/assert:1.10.0 from cache
+[Info  - 11:05:37 AM] Restored sebastian/recursion-context:3.0.1 from cache
+[Info  - 11:05:37 AM] Restored sebastian/environment:4.2.4 from cache
+[Info  - 11:05:37 AM] Restored sebastian/object-enumerator:3.0.4 from cache
+[Info  - 11:05:37 AM] Restored sebastian/global-state:3.0.2 from cache
+[Info  - 11:05:37 AM] Restored sebastian/diff:3.0.3 from cache
+[Info  - 11:05:37 AM] Restored sebastian/version:2.0.1 from cache
+[Info  - 11:05:37 AM] Restored sebastian/resource-operations:2.0.2 from cache
+[Info  - 11:05:37 AM] Restored sebastian/type:1.1.4 from cache
+[Info  - 11:05:37 AM] Restored sebastian/object-reflector:1.1.2 from cache
+[Info  - 11:05:37 AM] Restored sebastian/code-unit-reverse-lookup:1.0.2 from cache
+[Info  - 11:05:37 AM] Restored sebastian/exporter:3.1.4 from cache
+[Info  - 11:05:37 AM] Restored sebastian/comparator:3.0.3 from cache
+[Info  - 11:05:37 AM] Restored ralouphie/getallheaders:3.0.3 from cache
+[Info  - 11:05:37 AM] Restored codeception/verify:1.1.0 from cache
+[Info  - 11:05:37 AM] Restored codeception/module-yii2:1.1.5 from cache
+[Info  - 11:05:37 AM] Restored codeception/lib-innerbrowser:1.5.1 from cache
+[Info  - 11:05:37 AM] Restored codeception/module-asserts:1.3.1 from cache
+[Info  - 11:05:37 AM] Restored codeception/lib-asserts:1.13.2 from cache
+[Info  - 11:05:37 AM] Restored codeception/module-filesystem:1.0.3 from cache
+[Info  - 11:05:37 AM] Restored codeception/codeception:4.1.31 from cache
+[Info  - 11:05:37 AM] Restored codeception/stub:4.0.2 from cache
+[Info  - 11:05:37 AM] Restored codeception/phpunit-wrapper:8.1.4 from cache
+[Info  - 11:05:37 AM] Restored behat/gherkin:4.9.0 from cache
+[Info  - 11:05:37 AM] Restored yiisoft/yii2-faker:2.0.5 from cache
+[Info  - 11:05:37 AM] Restored yiisoft/yii2-swiftmailer:2.1.3 from cache
+[Info  - 11:05:37 AM] Restored yiisoft/yii2:2.0.45 from cache
+[Info  - 11:05:37 AM] Restored yiisoft/yii2-gii:2.2.4 from cache
+[Info  - 11:05:37 AM] Restored yiisoft/yii2-composer:2.0.10 from cache
+[Info  - 11:05:37 AM] Restored yiisoft/yii2-debug:2.1.19 from cache
+[Info  - 11:05:37 AM] Restored yiisoft/yii2-bootstrap4:2.0.10 from cache
+[Info  - 11:05:37 AM] Restored psr/http-factory:1.0.1 from cache
+[Info  - 11:05:37 AM] Restored psr/container:2.0.2 from cache
+[Info  - 11:05:37 AM] Restored psr/event-dispatcher:1.0.0 from cache
+[Info  - 11:05:37 AM] Restored psr/http-message:1.0.1 from cache
+[Info  - 11:05:37 AM] Restored doctrine/instantiator:1.4.1 from cache
+[Info  - 11:05:37 AM] Restored doctrine/lexer:1.2.3 from cache
+[Info  - 11:05:37 AM] Restored phpunit/php-text-template:1.2.1 from cache
+[Info  - 11:05:37 AM] Restored phpunit/php-token-stream:4.0.4 from cache
+[Info  - 11:05:37 AM] Restored phpunit/php-timer:2.1.3 from cache
+[Info  - 11:05:37 AM] Restored phpunit/php-file-iterator:2.0.5 from cache
+[Info  - 11:05:37 AM] Restored phpunit/php-code-coverage:7.0.15 from cache
+[Info  - 11:05:37 AM] Restored phpunit/phpunit:8.5.26 from cache
+[Info  - 11:05:37 AM] Restored phar-io/version:3.2.1 from cache
+[Info  - 11:05:37 AM] Restored phar-io/manifest:2.0.3 from cache
+[Info  - 11:05:37 AM] Restored theseer/tokenizer:1.2.1 from cache
+[Info  - 11:05:37 AM] All 3539 PHP files parsed in 1 seconds. 369 MiB allocated.
